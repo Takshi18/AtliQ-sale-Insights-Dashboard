@@ -1,7 +1,5 @@
 # atliQ Sales Insights Dashboard
 
-![image](https://github.com/Takshi18/AtliQ-sale-Insights-Dashboard/assets/121176455/3eba0e73-94c1-452a-beaf-69fda970bfa3)
-
 
 The atliQ Sales Insights Dashboard is a Power BI project designed to provide a clear and simplified view of the company's sales data. It breaks down revenue figures by various parameters, including regions, products, and customers, enabling the Sales Director to make informed decisions and identify areas of focus.
 
@@ -41,7 +39,7 @@ The dashboard is organized into the following sections:
 
 ### Desktop Version
 
-![Desktop Screenshot](desktop_screenshot.png) <!-- Replace with your desktop screenshot -->
+![image](https://github.com/Takshi18/AtliQ-sale-Insights-Dashboard/assets/121176455/3eba0e73-94c1-452a-beaf-69fda970bfa3)
 
 ### Mobile Version
 
