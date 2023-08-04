@@ -43,7 +43,8 @@ The dashboard is organized into the following sections:
 
 ### Mobile Version
 
-![Mobile Screenshot](mobile_screenshot.png) <!-- Replace with your mobile screenshot -->
+![WhatsApp Image 2023-08-04 at 13 55 12](https://github.com/Takshi18/AtliQ-sale-Insights-Dashboard/assets/121176455/d6a12200-9983-4ab8-86e6-23b36ea2d48c)
+
 
 ## Contributing
 
