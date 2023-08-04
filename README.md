@@ -39,7 +39,8 @@ The dashboard is organized into the following sections:
 
 ### Desktop Version
 
-![image](https://github.com/Takshi18/AtliQ-sale-Insights-Dashboard/assets/121176455/3eba0e73-94c1-452a-beaf-69fda970bfa3)
+![image](https://github.com/Takshi18/AtliQ-sale-Insights-Dashboard/assets/121176455/13538ea0-d941-4eed-812c-011dc49e6cc6)
+
 
 ### Mobile Version
 
